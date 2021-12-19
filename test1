@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<style>table, th, td {
+	border:1px solid black;
+}
+</style>
+
+<head>
+<title>Cookies are tasty</title>
+</head>
+
+<body>
+
+<h2>TRying some things out</h2>
+
+<table style="width:100%">
+	<tr>
+		<th>Ex.1</th>
+		<th>Ex. 2</th>
+		<th> Ex. 3</th>
+	</tr>
+	<tr>
+		<td>cookies</td>
+		<td>Cookies</td>
+		<td> COOKIES </td>
+	</tr>
+	<tr>
+		<td>cookies</td>
+		<td>Cookies</td>
+		<td> COOKIES </td>
+	</tr>
+	<tr>
+		<td>cookies</td>
+		<td>Cookies</td>
+		<td> COOKIES </td>
+	</tr>
+</table>
+</body>
+
+</html>
